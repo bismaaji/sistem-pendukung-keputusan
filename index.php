@@ -63,8 +63,8 @@ include "koneksi.php";
               <em>Politeknik Negeri Malang / </em>
               <em>Teknologi Informasi / </em>
               <em>D4 - Teknologi Informatika / </em>
-              <em>Bashori Try Subchan Fadhory / </em>
-              <em>D4 TI 3G / 1741720096 / 06</em>
+              <em>Bisma Aji / </em>
+              <em>D4 TI 3G / 1741720083 / 04</em>
             </div>
           </div>
         </div>
